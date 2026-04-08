@@ -15,7 +15,7 @@ public class DemoApplication {
 	
 	@GetMapping("/")
 	public String PrintHello() {
-		return "Hello World project";
+		return "This is a new user";
 	}
 	
 	
